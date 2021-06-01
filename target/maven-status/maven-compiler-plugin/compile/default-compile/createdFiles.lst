@@ -1,0 +1,5 @@
+com/shaikkh/custom/sonar/java/plugin/RulesList.class
+com/shaikkh/custom/sonar/java/plugin/CustomJavaRulesEntry.class
+com/shaikkh/custom/sonar/java/plugin/CustomRulesDefinition.class
+com/shaikkh/custom/sonar/java/plugin/CustomJavaFileCheckRegistrar.class
+com/shaikkh/custom/sonar/java/rules/AvoidSmallerLengthVariableNameRule.class
